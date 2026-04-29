@@ -19,3 +19,5 @@ elif distance_mi > 6 and (has_car or has_ride_share_app):
     print('True')
 else: 
     print('False')
+
+print("Goodbye")
